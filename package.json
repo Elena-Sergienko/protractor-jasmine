@@ -1,0 +1,20 @@
+{
+  "name": "protractor-jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine-data-provider": "2.2.0",
+    "protractor": "^7.0.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^89.0.0",
+    "jasmine": "^3.6.4"
+  },
+  "scripts": {
+    "test": "protractor conf/conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
